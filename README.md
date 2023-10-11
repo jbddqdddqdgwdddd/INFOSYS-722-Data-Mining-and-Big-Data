@@ -6,7 +6,7 @@ This research project focuses on data mining and prediction for stroke disease. 
 
 Project Report - "Stroke Prediction Data Mining Project Iteration3.pdf"
 
-Project using Sklearn, Pandas: "Stroke_Sklearn.ipynb" , "Stroke_Sklearn.html"
+Local Project using Sklearn, Pandas: "Stroke_Sklearn.ipynb" , "Stroke_Sklearn.html"
 
-Project using Pyspark, Pandas: "Stroke_Spark.ipynb" , "Stroke_Spark.html"
+AWS Project using Pyspark, Pandas: "Stroke_Spark.ipynb" , "Stroke_Spark.html"
 
